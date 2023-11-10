@@ -1,4 +1,4 @@
-<div style="width: 100%; height:100%">
+<div style="width: 100%; height:100%; background-color:#1F2023">
   <a href="https://github.com/AlexanderImperio/AlexanderImperio/blob/main/readme.svg">
     <img src="readme.svg" style="width: 100%;" alt="Click to see the source">
   </a>

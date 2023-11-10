@@ -64,35 +64,33 @@
                 <li> Desenvolvimento de Software</li>
                 <li> Ciência de Dados e Análise</li>
             </ul>
-
-
-
             </p>
 
             <h2> <b class="subtitulo"> Experiência Profissional </b> </h2>
             <p>Tenho experiência em desenvolvimento Web. </p>
 
             <h2> <b class="subtitulo">Tecnologias que Trabalho</b> 🚀 </h2>
-            <p>Algumas das tecnologias com as quais trabalho incluem:
-                - Linguagens de Programação: Java, JavaScript, C#
-                - Frameworks: Spring Boot, Angular
-                - Banco de Dados: PostgresSQL, Oracle
-                - Ferramentas de Controle de Versão: Git, GitHub, GitLab, SVN
+            <p>
+            <ul>Algumas das tecnologias com as quais trabalho incluem:
+                <li>Linguagens de Programação: Java, JavaScript, C#</li>
+                <li>Frameworks: Spring Boot, Angular</li>
+                <li>Banco de Dados: PostgresSQL, Oracle</li>
+                <li>Ferramentas de Controle de Versão: Git, GitHub, GitLab, SVN</li>
+            </ul>
             </p>
 
             <h2> <b class="subtitulo"> Projetos Destacados </b> </h2>
-            <p>Alguns dos projetos em que trabalhei incluem:
-                - Matricula Online: cadastro dos estudantes para o município de Campo Grande - MS.
-                - PortalReme: ferramentas para os professores e coordenadores com a finalidade de gerenciar o
-                planejamento
-                de aula.
-                - Estagio: sistema municipal de gestão de estágio.
-                - Portal FAC Ajuda: transparência aos serviços oferecidos pelo FAC, facilitará o acesso dos cidadãos e
-                representantes/líderes comunitários às atividades, eventos e cursos de geração de renda.
+            <p>
+                <ul>Alguns dos projetos em que trabalhei incluem:
+                    <li> Matricula Online: cadastro dos estudantes para o município de Campo Grande - MS.</li>
+                    <li> PortalReme: ferramentas para os professores e coordenadores com a finalidade de gerenciar o planejamento de aula.</li>
+                    <li> Estagio: sistema municipal de gestão de estágio.</li>
+                    <li> Portal FAC Ajuda: transparência aos serviços oferecidos pelo FAC, facilitará o acesso dos representantes/líderes comunitários às atividades, eventos e cursos de geração de renda.</li>
+                </ul>
             </p>
 
             <h2><b class="subtitulo"> Educação </b></h2>
-            <p>- Graduação em Ciência da Computação - UNIDERP.</p>
+            <p>Graduação em Ciência da Computação - UNIDERP.</p>
 
         </div>
     </foreignObject>
